@@ -1,2 +1,2 @@
-# matx-a-calculator
-A calculator that instantlygives you the sum, difference, product and quotient of two given numbers.
+# New Hites
+A tech company with a passion for programming and computer science.
